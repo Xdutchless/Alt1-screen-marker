@@ -1,7 +1,7 @@
 {
   "appName": "Screen Markers",
   "description": "Draws click through overlays on screen for all your screen marking needs!",
-  "appUrl": "/apps/ScreenMarkers/",
+  "appUrl": "https://github.com/Xdutchless/Alt1-screen-marker/blob/master/appconfig.json",
   "iconUrl": "/apps/ScreenMarkers/icon.png",
   "defaultWidth":270,
   "defaultHeight": 400,
